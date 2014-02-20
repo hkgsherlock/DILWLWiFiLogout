@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DILWL WiFi Logout</string>
+    <string name="status">Status:</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="stringLogoutUrl">Log-out URL:</string>
+    <string name="stringLogout">Logout</string>
+    <string name="stringRefresh">Refresh</string>
+
+</resources>
